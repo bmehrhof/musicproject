@@ -1,0 +1,80 @@
+
+body {margin: 1px;font-family: 'Questrial', sans-serif; background-color: white;
+  
+    
+}
+
+.topnav {
+    background-color: black; 
+    overflow: hidden; display: flex; justify-content: center; 
+    
+}
+
+.topnav a {
+    float: left;
+    color: blueviolet;
+    padding: 20px 30px;
+    text-decoration:none;
+    font-size: 20px;
+    
+
+}
+
+.topnav a:hover {
+
+    background-color: coral;
+    color:black;
+}
+
+
+.heading {font-family: 'Questrial', sans-serif; font-size: 40px; text-align: center; }
+
+
+
+
+.songnumber {list-style-position: outside; display: flex; justify-content: center;
+
+}
+
+.survey { list-style-position: outside; display: flex; justify-content: center; padding-bottom: 50px;
+
+}
+
+
+.question { text-align: center; padding-bottom: 20px;
+
+}
+
+
+.amypic {float:right;}
+
+
+.amypic2 {float: left;}
+
+.rip { text-align: center; font-family: 'Questrial', sans-serif; padding-bottom: 2px;}
+
+tr, td {border: 2px solid rgb(90, 88, 88); padding: 10px;
+
+}
+
+tr:hover{background-color: coral;}
+
+
+.amylife {text-align: center; font-size: 20px; padding-bottom: 40px;
+
+}
+
+.topsell {text-align: center; font-weight: bold; text-decoration: underline;
+}
+
+
+
+
+.video {padding-top: 50px;display: flex; justify-content: center; padding-bottom: 50px;}
+
+
+
+.leftline {float: left;}
+
+.rightline {float: right;}
+
